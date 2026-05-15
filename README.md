@@ -1,4 +1,8 @@
 <p align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-0d0b-4d53-9e1d-0f2cb89d3d0f.gif" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb,dda0dd,b19cd9&height=220&section=header&text=Anjini%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20AWS%20Learner%20%7C%20Future%20Developer&descAlignY=55" />
 </p>
 
