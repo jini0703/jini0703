@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anjini Pandey</h1>
 
-<!--
-**jini0703/jini0703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+B.Tech CSE Student at VIT 🌸 | AWS Learner ☁️ | C++ Enthusiast 💻
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🌱 Currently learning <b>AWS, DSA & Development</b><br>
+🎯 Goal: Internship + Strong Resume<br>
+✨ Building skills in Cloud, Programming & AI
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+💻 C  
+💻 C++  
+☕ Java  
+🐍 Python  
+🌐 HTML  
+🎨 CSS  
+⚡ JavaScript  
+☁️ AWS  
+🔧 Git & GitHub
+
+---
+
+## 📚 Currently Learning
+- AWS Cloud
+
+---
+
+## 📌 Projects & Certifications
+
+### 💻 Mini Projects
+
+🔹 [All Tasks Project](https://jini0703.github.io/all-tasks-project/)  
+A mini web project built using HTML, CSS, and JavaScript.
+
+---
+
+### 🏆 Certifications & Badges
+
+☁️ **AWS**
+- AWS Academy Graduate – Cloud Foundations
+- AWS Academy Graduate – Machine Learning Foundations
+- AWS Badge(s)
+
+🟠 **Oracle**
+- Oracle Badge 1
+- Oracle Badge 2
+
+---
+
+## 🌸 Fun Fact
+🐧 Penguins are my favorite animal!
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
