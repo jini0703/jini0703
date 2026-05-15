@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-0d0b-4d53-9e1d-0f2cb89d3d0f.gif" />
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb,dda0dd,b19cd9&height=220&section=header&text=Anjini%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20AWS%20Learner%20%7C%20Future%20Developer&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=14,24,20&text=Anjini%20Pandey%20🌸&fontColor=ffffff&fontSize=45&animation=twinkling&fontAlignY=38&desc=CSE%20Student%20|%20AWS%20Learner%20|%20Future%20Developer%20☁️&descAlignY=58" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anjini Pandey</h1>
@@ -13,7 +13,7 @@ B.Tech CSE Student at VIT 🌸 | AWS Learner ☁️ | C++ Enthusiast 💻
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=DA70D6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+🌸;AWS+Learner+☁️;CSE+Student+at+VIT+💻;Learning+DSA+%26+Development+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=DA70D6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+🌸;AWS+Learner+☁️;Learning+DSA+%26+Development+💻;Future+Software+Engineer+✨" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ B.Tech CSE Student at VIT 🌸 | AWS Learner ☁️ | C++ Enthusiast 💻
 ✨ Building skills in Cloud, Programming & AI
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
 ## 🚀 Skills
 💻 C  
@@ -35,7 +35,7 @@ B.Tech CSE Student at VIT 🌸 | AWS Learner ☁️ | C++ Enthusiast 💻
 ☁️ AWS  
 🔧 Git & GitHub
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
 ## 📚 Currently Learning
 - AWS Cloud ☁️
@@ -43,29 +43,26 @@ B.Tech CSE Student at VIT 🌸 | AWS Learner ☁️ | C++ Enthusiast 💻
 - Web Development (HTML, CSS, JavaScript)
 - Java Programming
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
 ## 📌 Projects & Certifications
 
 ### 💻 Mini Projects
-
 🔹 [All Tasks Project](https://jini0703.github.io/all-tasks-project/)  
 A mini web project built using HTML, CSS, and JavaScript.
-
----
 
 ### 🏆 Certifications & Badges
 
 ☁️ **AWS**
-- AWS Academy Graduate – Cloud Foundations
-- AWS Academy Graduate – Machine Learning Foundations
+- AWS Academy Graduate – Cloud Foundations  
+- AWS Academy Graduate – Machine Learning Foundations  
 - AWS Badge(s)
 
 🟠 **Oracle**
-- Oracle Badge 1
+- Oracle Badge 1  
 - Oracle Badge 2
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
 ## 📊 GitHub Stats
 
@@ -81,7 +78,7 @@ A mini web project built using HTML, CSS, and JavaScript.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jini0703&layout=compact&theme=omni" />
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+---
 
 ## 🌸 Fun Fact
 🐧 Penguins are my favorite animal!
