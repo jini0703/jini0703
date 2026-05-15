@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb,dda0dd,b19cd9&height=220&section=header&text=Anjini%20Pandey&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20AWS%20Learner%20%7C%20Future%20Developer&descAlignY=55" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Anjini Pandey</h1>
 
 <h3 align="center">
