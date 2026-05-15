@@ -9,12 +9,16 @@ B.Tech CSE Student at VIT 🌸 | AWS Learner ☁️ | C++ Enthusiast 💻
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=DA70D6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+🌸;AWS+Learner+☁️;CSE+Student+at+VIT+💻;Learning+DSA+%26+Development+✨" />
+</p>
+
+<p align="center">
 🌱 Currently learning <b>AWS, DSA & Development</b><br>
 🎯 Goal: Internship + Strong Resume<br>
 ✨ Building skills in Cloud, Programming & AI
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🚀 Skills
 💻 C  
@@ -25,9 +29,9 @@ B.Tech CSE Student at VIT 🌸 | AWS Learner ☁️ | C++ Enthusiast 💻
 🎨 CSS  
 ⚡ JavaScript  
 ☁️ AWS  
-🔧 Git & GitHub  
+🔧 Git & GitHub
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📚 Currently Learning
 - AWS Cloud ☁️
@@ -35,7 +39,7 @@ B.Tech CSE Student at VIT 🌸 | AWS Learner ☁️ | C++ Enthusiast 💻
 - Web Development (HTML, CSS, JavaScript)
 - Java Programming
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📌 Projects & Certifications
 
@@ -57,12 +61,7 @@ A mini web project built using HTML, CSS, and JavaScript.
 - Oracle Badge 1
 - Oracle Badge 2
 
----
-
-## 🌸 Fun Fact
-🐧 Penguins are my favorite animal!
-
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -78,7 +77,10 @@ A mini web project built using HTML, CSS, and JavaScript.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jini0703&layout=compact&theme=tokyonight" />
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## 🌸 Fun Fact
+🐧 Penguins are my favorite animal!
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
