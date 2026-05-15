@@ -62,11 +62,17 @@ A mini web project built using HTML, CSS, and JavaScript.
 
 ## 📊 GitHub Stats
 
-![Anjini's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini0703&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jini0703&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jini0703&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jini0703&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jini0703&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jini0703&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
