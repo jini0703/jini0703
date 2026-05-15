@@ -63,11 +63,11 @@ A mini web project built using HTML, CSS, and JavaScript.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jini0703&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jini0703&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jini0703&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=jini0703&theme=tokyonight" />
 </p>
 
 <p align="center">
