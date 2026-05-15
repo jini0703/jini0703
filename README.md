@@ -21,12 +21,15 @@ B.Tech CSE Student at VIT 🌸 | AWS Learner ☁️ | C++ Enthusiast 💻
 🎨 CSS  
 ⚡ JavaScript  
 ☁️ AWS  
-🔧 Git & GitHub
+🔧 Git & GitHub  
 
 ---
 
 ## 📚 Currently Learning
-- AWS Cloud
+- AWS Cloud ☁️
+- DSA in C++
+- Web Development (HTML, CSS, JavaScript)
+- Java Programming
 
 ---
 
@@ -54,6 +57,22 @@ A mini web project built using HTML, CSS, and JavaScript.
 
 ## 🌸 Fun Fact
 🐧 Penguins are my favorite animal!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jini0703&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jini0703&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jini0703&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
